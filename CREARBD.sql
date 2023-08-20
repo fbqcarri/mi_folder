@@ -1,0 +1,1 @@
+create database REPORTERIA_GENERAL_CD03_GENERAL
